@@ -1,5 +1,5 @@
-const paises = require('./exercise02')
-const visual = require('./exercise01')
+const paises = require('./src/exercise02')
+const visual = require('./src/exercise01')
 let countries = [
   {
     country:"US",
